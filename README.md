@@ -1,3 +1,4 @@
+|[logo](https://github.com/GAAUUURAAVVV/GAAUUURAAVVV/commit/37990db345b1075912e477b6560714e0b45a9e38)
 <h1 align="center">Hi 👋, I'm GAURAV SONI</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaauuuraavvv" /> </p>
 

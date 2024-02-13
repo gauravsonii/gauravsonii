@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="ayushmorbar" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaauuuraavvv&show_icons=true&locale=en&layout=compact" alt="gaauuuraavvv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaauuuraavvv&show_icons=true&locale=en" alt="gaauuuraavvv" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gaauuuraavvv&show_icons=true&locale=en" alt="gaauuuraavvv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaauuuraavvv&" alt="gaauuuraavvv" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gaauuuraavvv&" alt="gaauuuraavvv" /></p>

@@ -1,12 +1,10 @@
 |[logo](https://github.com/GAAUUURAAVVV/GAAUUURAAVVV/blob/main/20230924_091345_0000.png)
 <h1 align="center">"Digital marketing professional specializing in Facebook, Google, and Instagram ad campaigns. Experienced ad runner adept at crafting targeted strategies for optimal online presence and engagement. Passionate about leveraging social media platforms to drive business growth and enhance brand visibility."</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmorbar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmorbar" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="ayushmorbar" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaauuuraavvv" /> </p>
-
-- 🔭 I’m currently working on **Metatrade5**
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">

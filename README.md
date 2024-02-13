@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gaauuuraavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaauuuraavvv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaauuuraavvv_?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaauuuraavvv_?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gaauuuraavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gaauuuraavvv" height="30" width="40" /></a>
-<a href="https://fb.com/https://fb.com/https://www.facebook.com/gaauuuraavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/https://www.facebook.com/gaauuuraavv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaauuuraavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaauuuraavvv" height="30" width="40" /></a>
+<a href="https://kaggle.com/gaauuuraavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaauuuraavvv" height="30" width="40" /></a>
+<a href="https://fb.com/gaauuuraavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaauuuraavv" height="30" width="40" /></a>
 <a href="https://instagram.com/gaauuuraavvv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaauuuraavvv_" height="30" width="40" /></a>
 </p>
 

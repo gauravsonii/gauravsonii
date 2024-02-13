@@ -1,5 +1,5 @@
 |[logo](https://github.com/GAAUUURAAVVV/GAAUUURAAVVV/blob/main/20230924_091345_0000.png)
-<h1 align="center">Hi 👋, I'm GAURAV SONI</h1>
+<h1 align="center">"Digital marketing professional specializing in Facebook, Google, and Instagram ad campaigns. Experienced ad runner adept at crafting targeted strategies for optimal online presence and engagement. Passionate about leveraging social media platforms to drive business growth and enhance brand visibility."</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaauuuraavvv" /> </p>
 
 - 🔭 I’m currently working on **Metatrade5**

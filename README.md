@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="ayushmorbar" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

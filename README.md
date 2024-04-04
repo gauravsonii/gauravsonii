@@ -1,9 +1,9 @@
 |[logo](https://github.com/GAAUUURAAVVV/GAAUUURAAVVV/blob/main/20230924_091345_0000.png)
 <h1 align="center">"HI.. i am Gaurav"</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmorbar&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="gaurav" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=gaauuuraavvv&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="gaurav" /></a> </p>
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 

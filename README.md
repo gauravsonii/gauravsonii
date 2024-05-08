@@ -19,6 +19,7 @@
 <a href="https://kaggle.com/gaauuuraavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaauuuraavvv" height="30" width="40" /></a>
 <a href="https://fb.com/gaauuuraavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gaauuuraavv" height="30" width="40" /></a>
 <a href="https://instagram.com/gaauuuraavvv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaauuuraavvv_" height="30" width="40" /></a>
+<a href="https://YouTube.com/gaauuuraavvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaauuuraavvv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

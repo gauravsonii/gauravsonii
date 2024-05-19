@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
-<h3 align="center">I am passionate about web development</h3>
-
+ <i align="center">
+   <h2 class="title-text text-head">Hey</h2>
+   <h1 class="title-text text-head">I'm Gaurav Soni</h1>
+   <div class="paragraph py-4 w-73">
+   <p>
+     A Second year student from Rustamji Institute of Technology, Madhya Pradesh,<br>
+      a state in the center of India, majoring in Electronics & Communaction Engineering.</p></div>
+              <p class="para">
+                I am a Front-end developer proficient in HTML5, CSS3, Java Script and Node Js and its frameworks such as React and Angular.
+                 Passionate about open-source projects, I actively contribute to the community while continually
+                enhancing my skills. Additionally, I am deeply involved in community engagement, regularly participating
+                in and organizing various events and sessions.
+              </p></i> 
 <p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
 
 ## SOCIAL MEDIA:

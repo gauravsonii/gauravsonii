@@ -6,12 +6,13 @@
      A Second year student from Rustamji Institute of Technology, Madhya Pradesh,<br>
       a state in the center of India, majoring in Electronics & Communaction Engineering.</p></div>
               <p class="para">
-                I am a Front-end developer proficient in HTML5, CSS3, Java Script and Node Js and its frameworks such as React and Angular.
-                 Passionate about open-source projects, I actively contribute to the community while continually
-                enhancing my skills. Additionally, I am deeply involved in community engagement, regularly participating
+                I am a Web developer proficient in HTML5, CSS3, Java Script, Node Js and Python. <br> and Some frameworks such as React and Angular.
+                 Passionate  about open-source projects,<br> I actively contribute to the community while continually
+                enhancing my skills.<br> Additionally, I am deeply  involved in community engagement,<br> regularly participating
                 in and organizing various events and sessions.
               </p></i> 
 <p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
+<hr>
 
 ## SOCIAL MEDIA:
 
@@ -27,6 +28,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 <br>
 <br>
+<hr>
+
 ## SKILLS:
 
 ## PROGRAMMING LANGUAGES:
@@ -41,6 +44,8 @@
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 <br>
 <br>
+<hr>
+
 ## DESIGNER TOOLS: 
 
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
@@ -48,27 +53,36 @@
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 <br>
 <br>
+<hr>
+
 ## FRONT-END:
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 <br>
 <br>
+<hr>
+
 ## BACK-END:
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 <br>
 <br>
+<hr>
+
 ## CLOUD DEVOPS:
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 <br>
 <br>
+<hr>
+
 ## OFFICE TOOLS:
 
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 <br>
+<hr>
 
 ## OPERATING SYSTEMS:
 
@@ -80,10 +94,8 @@
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![ParrotOS](https://img.shields.io/badge/ParrotOS-339933?style=for-the-badge&logo=parrot&logoColor=white)](https://www.parrotsec.org/)
 
-
 <br>
-<br>
-
+<hr>
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">

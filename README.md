@@ -1,12 +1,7 @@
-|[logo](https://github.com/GAAUUURAAVVV/GAAUUURAAVVV/blob/main/20230924_091345_0000.png)
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h1 align="center">Hi 👋, I'm GAURAV SONI</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
 <h3 align="center">I am passionate about web development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
-
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=gaauuuraavvv&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=ayushmorbar&theme=dark_lover" alt="gaurav"/</p>
-
+<p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
 
 ## SOCIAL MEDIA:
 
@@ -64,9 +59,24 @@
 
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 <br>
-<br>
 
 ## OPERATING SYSTEMS:
 <br>
+
 #### Desktop/Laptop OS
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![ParrotOS](https://img.shields.io/badge/ParrotOS-339933?style=for-the-badge&logo=parrot&logoColor=white)](https://www.parrotsec.org/)
+
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GAAUUURAAVVV&theme=dark" alt="GAAUUURAAVVV" /></p>
+  </div>

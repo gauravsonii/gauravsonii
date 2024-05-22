@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20developer;Open%20Source%20Enthusiast;Community%20Freak;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+ 
  <i align="center">
    <h2 class="title-text text-head">Hey</h2>
    <h1 class="title-text text-head">I'm Gaurav Soni</h1>
@@ -97,6 +102,14 @@
 <br>
 <hr>
 ## &#x1f4c8; GitHub Stats
+
+<p align="center">
+  <br/>
+    <a href="https://github.com/GAAUUURAAVVV/github-readme-stats"><img alt="GAAUUURAAVVV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAAUUURAAVVV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/GAAUUURAAVVV/github-readme-stats"><img alt="GAAUUURAAVVV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAAUUURAAVVV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</p>
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GAAUUURAAVVV&theme=dark" alt="GAAUUURAAVVV" /></p>

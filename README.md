@@ -96,12 +96,12 @@
 
 <p align="center">
   <br/>
-    <a href="https://github.com/GAAUUURAAVVV/github-readme-stats"><img alt="GAAUUURAAVVV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAAUUURAAVVV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/GAAUUURAAVVV/github-readme-stats"><img alt="GAAUUURAAVVV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAAUUURAAVVV&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/GAURAVSONII/github-readme-stats"><img alt="GAURAVSONII's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAVSONII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GAURAVSONII's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-palindrome&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
-
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GAAUUURAAVVV&theme=dark" alt="GAAUUURAAVVV" /></p>
-  </div>
+<p align="center">
+    <a href="https://github.com/GAURAVSONII/github-readme-streak-stats">
+        <img alt="GAURAVSONII's streak" src="http://github-readme-streak-stats.herokuapp.com?user=GAURAVSONII&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    </a>
+</p>

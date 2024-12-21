@@ -1,3 +1,7 @@
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=dark_lover" alt="gauravsonii" /></a> </p>
+
+[![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Polyglot%20Programmer;Crypto%20Enthusiast;Forex%20Trader;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
@@ -13,8 +17,6 @@
       leveraging my skills in programming and strategic trading.</p></div>
               <p class="para"></B></p></i> 
 <p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
-
-[![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
 
 [![GAAUUURAAVVV's GitHub | Stats](https://stats.quira.sh/GAAUUURAAVVV/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GAAUUURAAVVV)
 

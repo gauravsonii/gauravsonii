@@ -1,3 +1,27 @@
+<!-- WELCOME HEADLINE -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE!" />
+</h1>
+
+<!-- TYPING SVG -->
+<p align="center">
+  <a href="https://github.com/GAURAVSONII">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=POLYMATH;BLOCKCHAIN%20DEVELOPER%20%26%20POLYGLOT%20PROGRAMMER;FOREX%20%26%20CRYPTO%20TRADER;AI%20ENTHUSIAST;ALWAYS%20READY%20TO%20LEARN%20NEW%20THINGS&center=true&width=600&height=45&color=00FFFF">
+  </a>
+</p>
+
+<!-- GITHUB SNAKE CONTRIBUTION -->
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
+
+
+
+
+
+
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=dark_lover"><img src="https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=dark_lover" alt="gauravsonii" /></a> </p>
 
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)

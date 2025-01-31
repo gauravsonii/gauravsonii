@@ -19,9 +19,9 @@
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
 !-- HOLOPIN END -->
                
-<!-- QUIRA START -->
+<!-- QUIRA START --
 [![GAAUUURAAVVV's GitHub | Stats](https://stats.quira.sh/GAAUUURAAVVV/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GAAUUURAAVVV)
-<!-- QUIRA END -->
+!-- QUIRA END -->
      
 <!-- MY SOCIAL HANDLES START -->
 <h3 align="center">

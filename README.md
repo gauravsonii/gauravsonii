@@ -15,9 +15,9 @@
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
-<!-- HOLOPIN START -->
+<!-- HOLOPIN START --
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
-<!-- HOLOPIN END -->
+!-- HOLOPIN END -->
                
 <!-- QUIRA START -->
 [![GAAUUURAAVVV's GitHub | Stats](https://stats.quira.sh/GAAUUURAAVVV/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GAAUUURAAVVV)

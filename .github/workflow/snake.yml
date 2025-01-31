@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Har raat 12 baje run hoga (daily auto-update)
+  workflow_dispatch:  # Manually bhi run kar sakte ho
 
 jobs:
   generate:

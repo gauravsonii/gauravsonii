@@ -11,7 +11,7 @@
 </p>
 
 <!-- GITHUB SNAKE CONTRIBUTION -->
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 <!-- HOLOPIN -->
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)

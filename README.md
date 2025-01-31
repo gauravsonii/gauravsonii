@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE!" />
 </h1>
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG/INTRO-->
 <p align="center">
   <a href="https://github.com/GAURAVSONII">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=POLYMATH;BLOCKCHAIN%20DEVELOPER%20%26%20POLYGLOT%20PROGRAMMER;FOREX%20%26%20CRYPTO%20TRADER;AI%20ENTHUSIAST;ALWAYS%20READY%20TO%20LEARN%20NEW%20THINGS&center=true&width=600&height=45&color=00FFFF">
@@ -11,91 +11,74 @@
 </p>
 
 <!-- GITHUB SNAKE CONTRIBUTION -->
-![snake gif](https://github.com/GAURAVVSONII/GAURAVSONII/blob/output/github-contribution-grid-snake.gif)
 
-<!-- HOLOPIN -->
+
+<!-- HOLOPIN START -->
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
-
- <i align="center">
-   <h2 class="title-text text-head">Hey</h2>
-   <h1 class="title-text text-head">I'm Gaurav Soni</h1>
-   <div class="paragraph py-4 w-73">
-   <p><B> Hi, I'm Gaurav Soni, A Forex Trader and Polyglot Programmer,
-      currently in my 3rd year at Rustamji Institute of Technology,
-      majoring in Electronics and Communication Engineering.
-      I blend technology and finance,
-      leveraging my skills in programming and strategic trading.</p></div>
-              <p class="para"></B></p></i> 
-<p align="left" color="red"> <img src="https://komarev.com/ghpvc/?username=gaauuuraavvv&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav" /> </p>
-
+<!-- HOLOPIN END -->
+               
+<!-- QUIRA START -->
 [![GAAUUURAAVVV's GitHub | Stats](https://stats.quira.sh/GAAUUURAAVVV/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GAAUUURAAVVV)
-
+<!-- QUIRA END -->
      
-<hr>
+<!-- MY SOCIAL HANDLES START -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=CONNECT+WITH+ME" />
+</h3>
 
-## SOCIAL MEDIA:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsoni.org/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravsoni.fx)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210918555697152061)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GAURAVSONII)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gaauuuraavvv)
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaauuuraavvv)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/GAURAVVSONII/s/DAyZxJ1kav)
+[![Snapchat](https://img.shields.io/badge/Snapchat-F4F6F9?style=for-the-badge&logo=snapchat&logoColor=yellow)](https://snapchat.com/add/gaauravsonii)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gaauravsoni)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravv_sonii)
+<!-- MY SOCIAL HANDLES END -->
+     
+<!-- SKILL'S START -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
+</h3>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://facebook.com/gauravsoni.org/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](http://x.com/gauravv_sonii)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/gauravsoni.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-soni-2320b6284/)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/gaauuuraavv)
-<br>
-<br>
-<hr>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&circle=true)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&circle=true)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white&circle=true)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&circle=true)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&circle=true)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&circle=true)](https://www.cplusplus.com/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&circle=true)](https://soliditylang.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&circle=true)](https://www.mysql.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&circle=true)](https://aws.amazon.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&circle=true)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&circle=true)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&circle=true)](https://fastapi.tiangolo.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white&circle=true)](https://www.mathworks.com/products/matlab.html)
+[![Proteus](https://img.shields.io/badge/Proteus-4C92B5?style=for-the-badge&logo=proteus&logoColor=white&circle=true)](https://www.labcenter.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&circle=true)](https://www.canva.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&circle=true)](https://www.figma.com/)
+[![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&circle=true)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&circle=true)](https://www.notion.so/)
+<!-- SKILL'S END -->
 
-## SKILLS:
-
-## PROGRAMMING LANGUAGES:
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-<br>
-<br>
-<hr>
-
-## DESIGNER TOOLS: 
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-<br>
-<br>
-<hr>
-
-## FRONT-END:
-
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-<br>
-<br>
-<hr>
-
-## BACK-END:
-
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
-<br>
-<br>
-<hr>
-
-## OFFICE TOOLS:
-
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
-<br>
-<br>
-<hr>
-
-## OPERATING SYSTEMS:
+<!-- OPERATING SYSTEM START-->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
+</h3>
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-<br>
-<br>
-## &#x1f4c8; GitHub Stats
+<!-- OPERATING SYSTEM END-->
+
+<!-- GITHUB STACK START-->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
+</h3>
 
 <p align="center">
   <br/>
@@ -108,3 +91,4 @@
         <img alt="GAURAVSONII's streak" src="http://github-readme-streak-stats.herokuapp.com?user=GAURAVSONII&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
+<!-- GITHUB STACK END -->

@@ -61,6 +61,7 @@
 [![Proteus](https://img.shields.io/badge/Proteus-4C92B5?style=for-the-badge&logo=proteus&logoColor=white&circle=true)](https://www.labcenter.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&circle=true)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&circle=true)](https://www.figma.com/)
+[![Spline](https://img.shields.io/badge/Spline-3C3D47?style=for-the-badge&logo=spline&logoColor=white&circle=true)](https://spline.design/)
 [![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&circle=true)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&circle=true)](https://www.notion.so/)
 <!-- SKILL'S END -->
@@ -70,9 +71,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
 </h3>
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&circle=true)](https://www.microsoft.com/en-us/windows)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&circle=true)](https://www.apple.com/macos/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white&circle=true)](https://www.kali.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&circle=true)](https://ubuntu.com/)
 <!-- OPERATING SYSTEM END-->
 
 <!-- GITHUB STACK START-->

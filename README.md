@@ -11,8 +11,7 @@
 </p>
 
 <!-- GITHUB SNAKE CONTRIBUTION -->
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/GAURAVVSONII/GAURAVSONII/blob/output/github-contribution-grid-snake.gif)
 
 <!-- HOLOPIN -->
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)

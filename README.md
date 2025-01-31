@@ -1,7 +1,9 @@
 <!-- WELCOME HEADLINE -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE!" />
-</h1>
+<p align="center">
+  <a href="https://github.com/GAURAVSONII">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF">
+  </a>
+</p>
 
 <!-- TYPING SVG/INTRO-->
 <p align="center">
@@ -24,9 +26,9 @@
 !-- QUIRA END -->
      
 <!-- MY SOCIAL HANDLES START -->
-<h3 align="center">
+<P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=CONNECT+WITH+ME" />
-</h3>
+</P>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsoni.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravsoni.fx)
@@ -41,9 +43,9 @@
 <!-- MY SOCIAL HANDLES END -->
      
 <!-- SKILL'S START -->
-<h3 align="center">
+<P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
-</h3>
+</P>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -69,9 +71,9 @@
 <!-- SKILL'S END -->
 
 <!-- OPERATING SYSTEM START-->
-<h3 align="center">
+<P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
-</h3>
+</P>
 
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&circle=true)](https://www.microsoft.com/en-us/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&circle=true)](https://www.apple.com/macos/)
@@ -80,9 +82,9 @@
 <!-- OPERATING SYSTEM END-->
 
 <!-- GITHUB STACK START-->
-<h3 align="center">
+<P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
-</h3>
+</P>
 
 <p align="center">
     <a href="https://github.com/GAURAVSONII/github-readme-stats"><img alt="GAURAVSONII's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAVSONII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

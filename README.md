@@ -10,9 +10,10 @@
   </a>
 </p>
 
-<!-- GITHUB SNAKE CONTRIBUTION -->
+<!-- GITHUB SNAKE CONTRIBUTION START-->
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- GITHUB SNAKE CONTRIBUTION END-->
 
 <!-- HOLOPIN START -->
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
@@ -84,10 +85,8 @@
 </h3>
 
 <p align="center">
-  <br/>
     <a href="https://github.com/GAURAVSONII/github-readme-stats"><img alt="GAURAVSONII's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAVSONII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GAURAVSONII's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-palindrome&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 </p>
 <p align="center">
     <a href="https://github.com/GAURAVSONII/github-readme-streak-stats">

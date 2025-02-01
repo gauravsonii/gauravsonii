@@ -42,7 +42,7 @@
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravv_sonii)
 <!-- MY SOCIAL HANDLES END -->
      
-<!-- SKILL'S START -->
+<!-- MY SKILL'S START -->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
 </P>
@@ -78,7 +78,7 @@
 [![Binance Smart Chain](https://img.shields.io/badge/Binance%20Smart%20Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white)](https://www.bnbchain.org/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-F6851D?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
 [![Phantom Wallet](https://img.shields.io/badge/Phantom-6A48F2?style=for-the-badge&logo=phantom&logoColor=white)](https://phantom.app/)
-<!-- SKILL'S END -->
+<!-- MY SKILL'S END -->
 
 <!-- OPERATING SYSTEM START-->
 <P align="center">
@@ -100,9 +100,12 @@
     <a href="https://github.com/GAURAVSONII/github-readme-stats"><img alt="GAURAVSONII's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAVSONII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GAURAVSONII's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-palindrome&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
+<!-- GITHUB STACK END-->
+
+<!-- GITHUB STREAK START-->
 <p align="center">
     <a href="https://github.com/GAURAVSONII/github-readme-streak-stats">
         <img alt="GAURAVSONII's streak" src="http://github-readme-streak-stats.herokuapp.com?user=GAURAVSONII&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-<!-- GITHUB STACK END -->
+<!-- GITHUB STREAK END -->

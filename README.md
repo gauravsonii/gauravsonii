@@ -1,7 +1,7 @@
 <!-- WELCOME HEADLINE -->
 <p align="center">
   <a href="https://github.com/GAURAVSONII">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=30">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
      
 <!-- MY SOCIAL HANDLES START -->
 <P align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=CONNECT+WITH+ME" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=CONNECT+WITH+ME" />
 </P>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsoni.org/)
@@ -44,7 +44,7 @@
      
 <!-- MY SKILL'S START -->
 <P align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
 </P>
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -82,7 +82,7 @@
 
 <!-- OPERATING SYSTEM START-->
 <P align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
 </P>
 
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&circle=true)](https://www.microsoft.com/en-us/windows)
@@ -93,7 +93,7 @@
 
 <!-- GITHUB STACK START-->
 <P align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
 </P>
 
 <p align="center">

@@ -17,19 +17,21 @@
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
-<!-- HOLOPIN START --
+<!-- HOLOPIN START 
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
-!-- HOLOPIN END -->
+ HOLOPIN END -->
                
-<!-- QUIRA START --
+<!-- QUIRA START 
 [![GAAUUURAAVVV's GitHub | Stats](https://stats.quira.sh/GAAUUURAAVVV/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GAAUUURAAVVV)
-!-- QUIRA END -->
+ QUIRA END -->
      
-<!-- MY SOCIAL HANDLES START -->
+<!-- SOCIAL HEADING START -->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=CONNECT+WITH+ME" />
 </P>
+<!-- SOCIAL HEADING END -->
 
+<!-- MY SOCIAL HANDLES START -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsoni.org/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravsoni.fx)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210918555697152061)
@@ -42,11 +44,13 @@
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravv_sonii)
 <!-- MY SOCIAL HANDLES END -->
     
-<!-- MY SKILL'S START -->
+<!-- MY SKILL'S HEADING START -->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
 </P>
+<!-- MY SKILL'S HEADING END-->
 
+<!-- MY SKILL'S START -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&circle=true)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&circle=true)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -80,22 +84,26 @@
 [![Phantom Wallet](https://img.shields.io/badge/Phantom-6A48F2?style=for-the-badge&logo=phantom&logoColor=white)](https://phantom.app/)
 <!-- MY SKILL'S END -->
 
-<!-- OPERATING SYSTEM START-->
+<!-- OPERATING SYSTEM HEADING START-->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
 </P>
+<!-- OPERATING SYSTEM HEADING END-->
 
+<!-- OPERATING SYSTEM  START-->
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&circle=true)](https://www.microsoft.com/en-us/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&circle=true)](https://www.apple.com/macos/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white&circle=true)](https://www.kali.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&circle=true)](https://ubuntu.com/)
 <!-- OPERATING SYSTEM END-->
 
-<!-- GITHUB STACK START-->
+<!-- GITHUB STACK HEADING START-->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
 </P>
+<!-- GITHUB STACK HEADING END -->
 
+<!-- GITHUB STACK START-->
 <p align="center">
     <a href="https://github.com/GAURAVSONII/github-readme-stats"><img alt="GAURAVSONII's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAVSONII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GAURAVSONII's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-palindrome&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>

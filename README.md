@@ -30,59 +30,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SOCIAL'S" />
 </P>
 
-<p align="left">
-
-  <!-- Facebook -->
-  <a href="https://facebook.com/gauravsoni.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="36" height="36" alt="Facebook" />
-  </a>&nbsp; &nbsp;
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/gauravsoni.fx" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="36" height="36" alt="Instagram" />
-  </a>&nbsp; &nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/gauravvsonii" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="36" height="36" alt="LinkedIn" />
-  </a>&nbsp; &nbsp;
-
-  <!-- Discord (Fixed) -->
-  <a href="https://discord.com/users/1210918555697152061" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" width="36" height="36" alt="Discord" />
-  </a>&nbsp; &nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/GAURAVSONII" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="36" height="36" alt="GitHub" />
-  </a>&nbsp; &nbsp;
-
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/gaauuuraavvv" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="36" height="36" alt="Kaggle" />
-  </a>&nbsp; &nbsp;
-
-  <!-- Medium -->
-  <a href="https://medium.com/@gaauuuraavvv" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" width="36" height="36" alt="Medium" />
-  </a>&nbsp; &nbsp;
-
-  <!-- Reddit -->
-  <a href="https://reddit.com/u/GAURAVVSONII/s/DAyZxJ1kav" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" width="36" height="36" alt="Reddit" />
-  </a>&nbsp; &nbsp;
-
-  <!-- Snapchat -->
-  <a href="https://snapchat.com/add/gaauravsonii" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/snapchat/snapchat-icon.svg" width="36" height="36" alt="Snapchat" />
-  </a>&nbsp; &nbsp;
-
-  <!-- X (Twitter Fixed) -->
-  <a href="https://x.com/gauravv_sonii" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="36" height="36" alt="X (Twitter)" />
-  </a>&nbsp; &nbsp;
-
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsoni.org/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravsoni.fx)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210918555697152061)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GAURAVSONII)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gaauuuraavvv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravvsonii)
+[![Medium](https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaauuuraavvv)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/GAURAVVSONII/s/DAyZxJ1kav)
+[![Snapchat](https://img.shields.io/badge/Snapchat-F4F6F9?style=for-the-badge&logo=snapchat&logoColor=yellow)](https://snapchat.com/add/gaauravsonii)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravv_sonii)
 <!-- MY SOCIAL HANDLES END -->
 <br>   
 <!-- MY SKILL'S HEADING START -->

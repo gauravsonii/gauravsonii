@@ -6,10 +6,10 @@
 </p>
 
 <!-- TYPING SVG/INTRO-->
-<p align="center">
-  <a href="https://github.com/GAURAVSONII">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=POLYMATH;BLOCKCHAIN%20DEVELOPER%20%26%20POLYGLOT%20PROGRAMMER;FOREX%20%26%20CRYPTO%20TRADER;AI%20ENTHUSIAST;ALWAYS%20READY%20TO%20LEARN%20NEW%20THINGS&center=true&width=600&height=45&color=00FFFF">
-  </a>
+<p align="center">  
+  <a href="https://github.com/GAURAVSONII">  
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=BLOCKCHAIN%20DEVELOPER;AI%20EXPLORER%20%26%20WEB3%20COMMUNITY%20BUILDER;UI/UX%20DESIGNER;FOREX%20%26%20CRYPTO%20TRADER;&center=true&width=600&height=45&color=00FFFF">  
+  </a>  
 </p>
 
 <!-- GITHUB SNAKE CONTRIBUTION START-->

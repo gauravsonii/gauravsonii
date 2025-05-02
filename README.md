@@ -63,8 +63,6 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="36" height="36" alt="Vercel" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /> &nbsp;
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" width="36" height="36" alt="Ethereum" /> &nbsp;
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=024" width="36" height="36" alt="Solana" /> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" width="36" height="36" alt="MetaMask" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /> &nbsp;

@@ -8,7 +8,7 @@
 <!-- TYPING SVG/INTRO-->
 <p align="center">  
   <a href="https://github.com/GAURAVSONII">  
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=BLOCKCHAIN%20DEVELOPER;AI%20EXPLORER%20%26%20WEB3%20COMMUNITY%20BUILDER;UI/UX%20DESIGNER;FOREX%20%26%20CRYPTO%20TRADER;&center=true&width=600&height=45&color=00FFFF">  
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=BLOCKCHAIN%20DEVELOPER;AI%20%26%20WEB3%20ECOSYSTEM%20CONTRIBUTER;UI/UX%20DESIGNER;FOREX%20%26%20CRYPTO%20TRADER;&center=true&width=600&height=45&color=00FFFF">  
   </a>  
 </p>
 

@@ -112,19 +112,17 @@
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
 </P>
-<!-- GITHUB STACK HEADING END -->
+<!-- GITHUB STACK HEADING END-->
 
-<!-- GITHUB STACK START-->
-<p align="center">
-    <a href="https://github.com/GAURAVSONII/github-readme-stats"><img alt="GAURAVSONII's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAVSONII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="GAURAVSONII's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAVSONII&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<!-- GITHUB STACK END-->
+<div align="center">
 
-<!-- GITHUB STREAK START-->
-<p align="center">
-    <a href="https://github.com/GAURAVSONII/github-readme-streak-stats">
-        <img alt="GAURAVSONII's streak" src="http://github-readme-streak-stats.herokuapp.com?user=GAURAVSONII&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-    </a>
-</p>
-<!-- GITHUB STREAK END -->
+<!-- 🌱 Neon Green Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH%20&bg_color=000000&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&title_color=00FF00" width="100%" alt="activity graph" />
+<br />
+
+<!-- 🧠 GitHub Stats (Streaks in Bar Chart form) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=transparent&bg_color=00000000" width="49%" alt="GITHUB STATS" />
+
+<!-- 🌐 Most Used Languages with Black BG -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
+</div>

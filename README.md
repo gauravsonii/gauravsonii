@@ -103,8 +103,10 @@
 <!-- OS END-->
 
 <!-- GITHUB STACK HEADING START-->
+
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S/>
+
 </P>  
     
 <!-- GITHUB STACK HEADING END-->

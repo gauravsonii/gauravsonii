@@ -106,23 +106,34 @@
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white&circle=true)](https://www.kali.org/)
 
 </div>
-<!-- OPERATING SYSTEM END-->
 <br>
+<!-- OPERATING SYSTEM END-->
+
 <!-- GITHUB STACK HEADING START-->
 <P align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S/>
 </P>
+    
 <!-- GITHUB STACK HEADING END-->
 
 <div align="center">
 
-<!-- 🌱 Neon Green Activity Graph -->
+<!-- NEON GREEN ACTIVITY GRAPH START -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH%20&bg_color=000000&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&title_color=00FF00" width="100%" alt="activity graph" />
 <br />
+<!-- NEON GREEN ACTIVITY GRAPH END -->
 
-<!-- 🧠 GitHub Stats (Streaks in Bar Chart form) -->
+<!-- GITHUB STATS START -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=transparent&bg_color=00000000" width="49%" alt="GITHUB STATS" />
+<!-- GITHUB STATS END -->
 
-<!-- 🌐 Most Used Languages with Black BG -->
+<!-- MOST USED LANGUAGES WITH BLACK BG START-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
+<!-- MOST USED LANGUAGES WITH BLACK BG END-->
+
+<!-- GITHUB TROPHIES START-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GAURAVSONII&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories,MultipleLang,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GITHUB TROPHIES START-->
+
 </div>

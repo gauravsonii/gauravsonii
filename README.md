@@ -1,4 +1,7 @@
-<!-- WELCOME HEADLINE -->
+<!-- DIV START-->
+<!-- WELCOME LINE START-->
+
+<div align="center">
 <p align="center">
   <a href="https://github.com/GAURAVSONII">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=30">
@@ -15,18 +18,14 @@
 <!-- GITHUB SNAKE CONTRIBUTION START-->
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<br>
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
 <!-- HOLOPIN START 
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
  HOLOPIN END -->
                
-<!-- QUIRA START 
-[![GAAUUURAAVVV's GitHub | Stats](https://stats.quira.sh/GAAUUURAAVVV/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=GAAUUURAAVVV)
- QUIRA END -->
-<br>
 <!-- SOCIAL HEADING START -->
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsonnii/)
@@ -39,9 +38,10 @@
 [![Snapchat](https://img.shields.io/badge/Snapchat-F4F6F9?style=for-the-badge&logo=snapchat&logoColor=yellow)](https://snapchat.com/add/gaauravsonii)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravvsoniiii)
 
-</div>
+<br>
+
 <!-- MY SOCIAL HANDLES END -->
-<br>   
+   
 <!-- MY SKILL'S HEADING START -->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
@@ -49,9 +49,6 @@
 <!-- MY SKILL'S HEADING END-->
 
 <!-- MY SKILL'S START -->
-
-<div align="center">
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -90,36 +87,31 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 
-</div>
-
-<!-- MY SKILL'S END -->
 <br>
-<!-- OPERATING SYSTEM HEADING START-->
-<div align="center">
+<!-- MY SKILL'S END -->
+
+<!-- OS HEADING START-->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
+<!-- OS HEADING END-->
 
-<!-- OPERATING SYSTEM HEADING END-->
-
-<!-- OPERATING SYSTEM  START-->
+<!-- OS START-->
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&circle=true)](https://www.microsoft.com/en-us/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&circle=true)](https://www.apple.com/macos/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white&circle=true)](https://www.kali.org/)
 
-</div>
 <br>
-<!-- OPERATING SYSTEM END-->
+<!-- OS END-->
 
 <!-- GITHUB STACK HEADING START-->
 <P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+GITHUB+STACK'S/>
-</P>
+</P> 
     
 <!-- GITHUB STACK HEADING END-->
 
-<div align="center">
-
 <!-- NEON GREEN ACTIVITY GRAPH START -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH%20&bg_color=000000&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&title_color=00FF00" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH%20&bg_color=000000&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&title_color=00FF00" width="100%" alt="activity graph" 
+  />
 <br />
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
@@ -131,9 +123,26 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
-<!-- GITHUB TROPHIES START-->
-
+<!-- GITHUB TROPHIES START -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=GAURAVSONII&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories,MultipleLang,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- GITHUB TROPHIES START-->
 
 </div>
+<!-- DIV END-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

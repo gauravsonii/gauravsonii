@@ -112,6 +112,7 @@
 <!-- NEON GREEN ACTIVITY GRAPH START -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH%20&bg_color=000000&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&title_color=00FF00" width="100%" alt="activity graph" 
   />
+  
 <br />
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
@@ -122,6 +123,12 @@
 <!-- MOST USED LANGUAGES WITH BLACK BG START-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
+
+
+<!-- GITHUB TROPHIES HEADING START-->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=39FF14&center=true&vCenter=true&width=600&lines=GITHUB+TROPHIES" />
+<!-- GITHUB TROPHIES HEADING END-->
+
 
 <!-- GITHUB TROPHIES START -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=GAURAVSONII&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories,MultipleLang,Reviews)](https://github.com/ryo-ma/github-profile-trophy)

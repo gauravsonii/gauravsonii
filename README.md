@@ -112,8 +112,6 @@
 <!-- NEON GREEN ACTIVITY GRAPH START -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH%20&bg_color=000000&hide_border=true&color=00FF00&line=00FF00&point=00FF00&area=true&area_color=00FF00&title_color=00FF00" width="100%" alt="activity graph" 
   />
-  
-<br />
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
 <!-- GITHUB STATS START -->

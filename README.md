@@ -25,6 +25,16 @@
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
 
+<!-- GITHUB TROPHIES HEADING START-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+TROPHIES" />  
+<!-- GITHUB TROPHIES HEADING END-->
+
+
+<!-- GITHUB TROPHIES START -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=GAURAVSONII&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories,MultipleLang,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GITHUB TROPHIES END-->
+
+
 <!-- HOLOPIN START 
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
  HOLOPIN END -->
@@ -132,16 +142,6 @@
 <!-- MOST USED LANGUAGES WITH BLACK BG START-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
-
-
-<!-- GITHUB TROPHIES HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+TROPHIES" />  
-<!-- GITHUB TROPHIES HEADING END-->
-
-
-<!-- GITHUB TROPHIES START -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=GAURAVSONII&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories,MultipleLang,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- GITHUB TROPHIES START-->
 
 </div>
 <!-- DIV END-->

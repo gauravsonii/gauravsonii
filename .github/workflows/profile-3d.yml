@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,22 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      # Step 1: Checkout main branch
       - uses: actions/checkout@v4
-        with:
-          ref: main
-
-      # Step 2: Run the 3D contrib generator (stable version, not @latest)
-      - uses: gauravsonii/github-profile-3d-contrib@0.7.1
+      - uses: gauravsonii/gauravsonii
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: gauravsonii  # Fixed username
-
-      # Step 3: Commit & Push generated files with your name
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/green-dual.json
       - name: Commit & Push
         run: |
-          git config user.name "Gaurav Soni"
-          git config user.email "gauravsonnii@gmail.com"
+          git config user.name github-actions
+          git config user.email github-actions[bot]@users.noreply.github.com
           git add -A .
-          git commit -m "generated" || echo "No changes to commit"
-          git push
+          if git commit -m "generated"; then
+            git push
+          fi

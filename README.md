@@ -1,6 +1,15 @@
 <!-- DIV START-->
-<!-- WELCOME LINE START-->
 <div align="center">
+
+
+<!-- VISITIRS COUNT LINE START-->
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgauravsonii%2Fgauravsonii&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+
+<br><br>
+<!-- VISITIRS COUNT LINE END -->
+
+
+<!-- WELCOME LINE START-->
 <p align="center">
   <a href="https://github.com/GAURAVSONII">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=30">
@@ -143,8 +152,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
+
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- AESTHETIC LINE END -->
+
+
 </div>
 <!-- DIV END-->
 <!-- CODE END -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+

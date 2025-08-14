@@ -2,6 +2,11 @@
 <div align="center">
 
 
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- AESTHETIC LINE END -->
+
+
 <!-- VISITIRS COUNT LINE START-->
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgauravsonii%2Fgauravsonii&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> <br>
 <!-- VISITIRS COUNT LINE END -->
@@ -137,22 +142,22 @@
 <!-- GITHUB STACK HEADING END -->
 
 
-<!-- CONTRIBUTION START -->
+<!-- CONTRIBUTION START --
 ![](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
-<!-- CONTRIBUTION END -->
+!-- CONTRIBUTION END -->
 
 
-<!-- NEON GREEN ACTIVITY GRAPH START --
+<!-- NEON GREEN ACTIVITY GRAPH START -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&title_color=39FF14" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" />
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
 
-<!-- GITHUB STATS START --
+<!-- GITHUB STATS START -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=transparent&bg_color=00000000" width="49%" alt="GITHUB STATS" />
 <!-- GITHUB STATS END -->
 
 
-<!-- MOST USED LANGUAGES WITH BLACK BG START--
+<!-- MOST USED LANGUAGES WITH BLACK BG START-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 

@@ -35,9 +35,9 @@
 <!-- GITHUB TROPHIES END-->
 
 
-<!-- HOLOPIN START 
+<!-- HOLOPIN START --
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
- HOLOPIN END -->
+ !-- HOLOPIN END -->
  
                
 <!-- LET'S CONNECT TOGETHER LINE START -->

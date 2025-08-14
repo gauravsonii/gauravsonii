@@ -63,6 +63,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/GAURAVVSONII/s/DAyZxJ1kav)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/gaauravsonii)
 [![X](https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gauravsoniiii)
+
 <br>
 <!-- MY SOCIAL HANDLES END -->
 

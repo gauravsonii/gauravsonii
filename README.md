@@ -13,20 +13,16 @@
 
 
 <!-- WELCOME LINE START-->
-<p align="center">
   <a href="https://github.com/GAURAVSONII">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=30">
   </a>
-</p>
 <!-- WELCOME LINE END-->
 
 
 <!-- TYPING SVG/INTRO LINE START -->
-<p align="center">  
   <a href="https://github.com/GAURAVSONII">  
     <img src="https://readme-typing-svg.herokuapp.com/?lines=BLOCKCHAIN%20DEVELOPER;AI%20%26%20WEB3%20ECOSYSTEM%20CONTRIBUTER;UI/UX%20DESIGNER;FINTECH%20STRATEGIC;&center=true&width=600&height=45&color=00FFFF">  
-  </a>  
-</p>
+  </a> 
 <!-- TYPING SVG/INTRO LINE END -->
 
 
@@ -74,9 +70,7 @@
 
    
 <!-- MY SKILL'S HEADING START -->
-<P align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
-</P>
 <!-- MY SKILL'S HEADING END-->
 
 

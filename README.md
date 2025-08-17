@@ -13,16 +13,12 @@
 
 
 <!-- WELCOME LINE START-->
-  <a href="https://github.com/GAURAVSONII">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=30">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=30">
 <!-- WELCOME LINE END-->
 
 
 <!-- TYPING SVG/INTRO LINE START -->
-  <a href="https://github.com/GAURAVSONII">  
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=BLOCKCHAIN%20DEVELOPER;AI%20%26%20WEB3%20ECOSYSTEM%20CONTRIBUTER;UI/UX%20DESIGNER;FINTECH%20STRATEGIC;&center=true&width=600&height=45&color=00FFFF">  
-  </a> 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=BLOCKCHAIN%20DEVELOPER;AI%20%26%20WEB3%20ECOSYSTEM%20CONTRIBUTER;UI/UX%20DESIGNER;FINTECH%20STRATEGIC;&center=true&width=600&height=45&color=00FFFF">  
 <!-- TYPING SVG/INTRO LINE END -->
 
 
@@ -49,7 +45,7 @@
  
                
 <!-- LET'S CONNECT TOGETHER LINE START -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
 <!-- LET'S CONNECT TOGETHER LINE END -->
 
   
@@ -70,7 +66,7 @@
 
    
 <!-- MY SKILL'S HEADING START -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
 <!-- MY SKILL'S HEADING END-->
 
 
@@ -118,15 +114,14 @@
 
 
 <!-- OS HEADING START-->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
 <!-- OS HEADING END-->
 
 
 <!-- OS START-->
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&circle=true)](https://www.microsoft.com/en-us/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&circle=true)](https://www.apple.com/macos/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white&circle=true)](https://www.kali.org/)
-
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white&circle=true)](https://www.kali.org/) 
 <br>
 <!-- OS END-->
 
@@ -164,4 +159,3 @@
 </div>
 <!-- DIV END-->
 <!-- CODE END -->
-

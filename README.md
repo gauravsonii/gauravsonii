@@ -151,12 +151,12 @@
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
 
-<!-- TOP REPO HEADING START -->
+<!-- TOP REPO HEADING START --
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=9400D3&center=true&vCenter=true&width=600&lines=MY+TOP+REPOSITORY" />
-<!-- TOP REPO HEADING END-->
+!-- TOP REPO HEADING END-->
 
 
-<!-- TOP REPO START -->
+<!-- TOP REPO START --
 <a href="https://github.com/gauravsonii/google">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="350" /> </a> &nbsp;
 
@@ -174,7 +174,7 @@
 
 <a href="https://github.com/gauravsonii/trillo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="350" /> </a> &nbsp;
-<!-- TOP REPO END-->
+!-- TOP REPO END-->
 
 
 <!-- ALL REPO BUTTON START -->

@@ -156,6 +156,23 @@
 <!-- AESTHETIC LINE END -->
 
 
+
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=PlagX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/PlagX)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Similar_Document_Template_Matching_Algorithm_Flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Similar_Document_Template_Matching_Algorithm_Flask)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Flask-Website-Data-Analysis-With-Himanshu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Flask-Website-Data-Analysis-With-Himanshu)
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Leetcode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Leetcode)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=LGMVIP-DataScience-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/LGMVIP-DataScience-1)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=LGMVIP-DataScience-2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/LGMVIP-DataScience-2)
+
+
+<p align="centre">
+  <a href="https://github.com/himanshumahajan138?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+
+
+
 </div>
 <!-- DIV END-->
 <!-- CODE END -->

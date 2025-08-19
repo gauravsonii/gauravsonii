@@ -152,27 +152,27 @@
 
 
 <!-- TOP REPO HEADING START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+TOP+REPOSITORY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=9400D3&center=true&vCenter=true&width=600&lines=MY+TOP+REPOSITORY" />
 <!-- TOP REPO HEADING END-->
 
 
 <!-- TOP REPO START -->
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=frizzle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/frizzle)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=frizzle&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/frizzle)
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=soltrust&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/soltrust)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=soltrust&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/soltrust)
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=WalletConnect_V2_DApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/WalletConnect_V2_DApp)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=WalletConnect_V2_DApp&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/WalletConnect_V2_DApp)
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=vecto3d&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/vecto3d)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=vecto3d&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/vecto3d)
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/google)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/google)
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/trillo)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/trillo)
 <!-- TOP REPO END-->
 
 
 <!-- ALL REPO BUTTON START -->
-  <a href="https://github.com/gauravsonii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/gauravsonii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 <!-- ALL REPO BUTTON END -->
 
 

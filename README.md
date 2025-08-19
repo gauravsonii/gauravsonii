@@ -157,17 +157,23 @@
 
 
 <!-- TOP REPO START -->
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=frizzle&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/frizzle)
+<a href="https://github.com/gauravsonii/google">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="400" /> </a> &nbsp;
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=soltrust&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/soltrust)
+<a href="https://github.com/gauravsonii/trillo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="400" /> </a> &nbsp;
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=WalletConnect_V2_DApp&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/WalletConnect_V2_DApp)
+<a href="https://github.com/gauravsonii/google">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="400" /> </a> &nbsp;
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=vecto3d&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/vecto3d)
+<a href="https://github.com/gauravsonii/trillo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="400" /> </a> &nbsp;
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/google)
+<a href="https://github.com/gauravsonii/google">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="400" /> </a> &nbsp;
 
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=9400D3&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/trillo)
+<a href="https://github.com/gauravsonii/trillo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=9400D3&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" width="400" /> </a> &nbsp;
 <!-- TOP REPO END-->
 
 
@@ -184,3 +190,4 @@
 </div>
 <!-- DIV END-->
 <!-- CODE END -->
+

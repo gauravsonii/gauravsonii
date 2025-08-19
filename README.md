@@ -158,11 +158,16 @@
 
 <!-- TOP REPO START -->
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=frizzle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/frizzle)
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Similar_Document_Template_Matching_Algorithm_Flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Similar_Document_Template_Matching_Algorithm_Flask)
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Flask-Website-Data-Analysis-With-Himanshu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Flask-Website-Data-Analysis-With-Himanshu)
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Leetcode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Leetcode)
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=LGMVIP-DataScience-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/LGMVIP-DataScience-1)
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=LGMVIP-DataScience-2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/LGMVIP-DataScience-2)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=soltrust&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/soltrust)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=WalletConnect_V2_DApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/WalletConnect_V2_DApp)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=vecto3d&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/vecto3d)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/google)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/trillo)
 <!-- TOP REPO END-->
 
 
@@ -179,3 +184,17 @@
 </div>
 <!-- DIV END-->
 <!-- CODE END -->
+
+<!-- TOP REPO START -->
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=frizzle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/frizzle)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=soltrust&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/soltrust)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=WalletConnect_V2_DApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/WalletConnect_V2_DApp)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=vecto3d&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/vecto3d)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=google&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/google)
+
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/trillo)
+<!-- TOP REPO END-->

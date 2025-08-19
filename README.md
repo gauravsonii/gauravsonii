@@ -151,26 +151,29 @@
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
 
-<!-- AESTHETIC LINE START-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!-- AESTHETIC LINE END -->
+<!-- TOP REPO HEADING START -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+TOP+REPOSITORY" />
+<!-- TOP REPO HEADING END-->
 
 
-
-
-[![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=PlagX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/PlagX)
+<!-- TOP REPO START -->
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=gauravsonii&repo=frizzle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gauravsonii/frizzle)
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Similar_Document_Template_Matching_Algorithm_Flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Similar_Document_Template_Matching_Algorithm_Flask)
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Flask-Website-Data-Analysis-With-Himanshu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Flask-Website-Data-Analysis-With-Himanshu)
 [![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Leetcode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Leetcode)
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=LGMVIP-DataScience-1&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/LGMVIP-DataScience-1)
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=LGMVIP-DataScience-2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/LGMVIP-DataScience-2)
+<!-- TOP REPO END-->
 
 
-<p align="centre">
-  <a href="https://github.com/himanshumahajan138?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<!-- ALL REPO BUTTON START -->
+  <a href="https://github.com/gauravsonii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<!-- ALL REPO BUTTON END -->
 
 
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- AESTHETIC LINE END -->
 
 
 </div>

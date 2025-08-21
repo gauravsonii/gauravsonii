@@ -177,9 +177,9 @@
 !-- TOP REPO END-->
 
 
-<!-- ALL REPO BUTTON START -->
+<!-- ALL REPO BUTTON START --
   <a href="https://github.com/gauravsonii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-<!-- ALL REPO BUTTON END -->
+!-- ALL REPO BUTTON END -->
 
 
 <!-- AESTHETIC LINE START-->

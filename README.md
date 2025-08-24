@@ -28,13 +28,13 @@
 
 
 <!-- GITHUB TROPHIES HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+TROPHIES" />  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+TROPHIES"/> 
 <!-- GITHUB TROPHIES HEADING END-->
 
 
 <!-- GITHUB TROPHIES START -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=GAURAVSONII&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories,MultipleLang,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- GITHUB TROPHIES END-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GITHUB TROPHIES END -->
 
 
 <!-- HOLOPIN START --

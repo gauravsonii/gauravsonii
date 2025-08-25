@@ -137,23 +137,6 @@
 <!-- AQUA ACTIVITY GRAPH END -->
 
 
-<!-- EXTRA BADGES FOR CAPITALIZED LOOK START -->
-<img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" /> 
-<img src="https://img.shields.io/badge/MOST%20USED%20LANGUAGES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF&labelColor=000000&color=000000" />
-<br>
-<!-- EXTRA BADGES FOR CAPITALIZED LOOK END -->
-
-
-<!-- GITHUB STACK CLEAN START -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravsonii&show_icons=true&hide_rank=true&hide_title=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true&border_radius=8" style="width: 40; height: auto; border-radius: 8px; box-shadow: 0px 0px 15px #00FFFF;"/>
-<!-- GITHUB STACK CLEAN END -->
-
-
-<!-- MOST USED LANGUAGES WITH BLACK BG START-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&border_radius=10&langs_count=8&hide_title=true" />
-<!-- MOST USED LANGUAGES WITH BLACK BG END-->
----------------
-
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" alt="GitHub Stats Badge"/>

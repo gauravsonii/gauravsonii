@@ -23,8 +23,8 @@
 
 
 <!-- GITHUB SNAKE CONTRIBUTION START-->
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/gauravsonii/gauravsonii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/gauravsonii/gauravsonii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br> <br>
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 

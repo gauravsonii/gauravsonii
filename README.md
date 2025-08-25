@@ -142,12 +142,12 @@
 
 
 <!-- GITHUB STATS START -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=transparent&bg_color=000000" width="49%" alt="GITHUB STATS" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=github_dark&bg_color=000000" />
 <!-- GITHUB STATS END -->
 
 
 <!-- MOST USED LANGUAGES WITH BLACK BG START-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=8B949E&border_radius=10&langs_count=10" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
 

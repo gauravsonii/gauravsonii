@@ -146,9 +146,7 @@
 <!-- GITHUB STATS END -->
 
 
-<!-- MOST USED LANGUAGES WITH BLACK BG START-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
-<!-- MOST USED LANGUAGES WITH BLACK BG END-->
+
 
 
 <!-- TOP REPO HEADING START --

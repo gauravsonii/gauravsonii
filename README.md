@@ -23,7 +23,7 @@
 <!-- GITHUB SNAKE CONTRIBUTION START-->
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/GAURAVSONII/GAURAVSONII/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-<br>
+<br> <br>
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
 
@@ -137,7 +137,7 @@
 
 
 <!-- NEON GREEN ACTIVITY GRAPH START -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=39FF14&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=00FFFF&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" />
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
 
@@ -147,7 +147,7 @@
 
 
 <!-- MOST USED LANGUAGES WITH BLACK BG START-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=000000&langs_count=8" width="49%" alt="TOP LANGUAGE" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
 

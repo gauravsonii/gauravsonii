@@ -27,19 +27,19 @@
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
 
-<!-- GITHUB TROPHIES HEADING START-->
+<!-- GITHUB TROPHIES HEADING START--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+TROPHIES"/> 
 <!-- GITHUB TROPHIES HEADING END-->
 
 
-<!-- GITHUB TROPHIES START -->
+<!-- GITHUB TROPHIES START --
 [![trophy](https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- GITHUB TROPHIES END -->
 
 
 <!-- HOLOPIN START --
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
- !-- HOLOPIN END -->
+<!-- HOLOPIN END -->
  
                
 <!-- LET'S CONNECT TOGETHER LINE START -->
@@ -58,7 +58,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/GAURAVVSONII/s/DAyZxJ1kav)
 [![Snapchat](https://img.shields.io/badge/Snapchat-000000?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/gaauravsonii)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gauravsoniiii)
-<br>
+<br> <br>
 <!-- MY SOCIAL HANDLES END -->
 
    
@@ -108,8 +108,7 @@
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
-
-<br>
+<br> <br>
 <!-- MY SKILL'S END -->
 
 
@@ -123,7 +122,7 @@
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) 
-<br>
+<br> <br>
 <!-- OS END-->
 
 

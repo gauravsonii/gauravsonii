@@ -1,9 +1,11 @@
 <!-- DIV START-->
 <div align="center">
 
+
 <!-- AESTHETIC LINE START-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
 <!-- AESTHETIC LINE END -->
+
 
 <!-- VISITIRS COUNT LINE START-->
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgauravsonii%2Fgauravsonii&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> <br>
@@ -143,7 +145,7 @@
 
 
 <!-- GITHUB STACK CLEAN START -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravsonii&show_icons=true&hide_rank=true&hide_title=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true&border_radius=12" style="width: auto; height: auto; border-radius: 12px; box-shadow: 0px 0px 15px #00FFFF;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsonii&show_icons=true&hide_rank=true&hide_title=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true&border_radius=8" style="width: 40; height: auto; border-radius: 8px; box-shadow: 0px 0px 15px #00FFFF;"/>
 <!-- GITHUB STACK CLEAN END -->
 
 

@@ -126,7 +126,6 @@
 <!-- OS END-->
 
 
-
 <!-- GITHUB STACK HEADING START-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+STACKS" />   
 <!-- GITHUB STACK HEADING END -->
@@ -138,12 +137,12 @@
 
 
 <!-- NEON GREEN ACTIVITY GRAPH START -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&title_color=39FF14" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=39FF14&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" />
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
 
 <!-- GITHUB STATS START -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=transparent&bg_color=00000000" width="49%" alt="GITHUB STATS" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=transparent&bg_color=000000" width="49%" alt="GITHUB STATS" />
 <!-- GITHUB STATS END -->
 
 

@@ -137,17 +137,23 @@
 
 
 <!-- NEON GREEN ACTIVITY GRAPH START -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=00FFFF&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=00FFFF&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" /> <br> <br> 
 <!-- NEON GREEN ACTIVITY GRAPH END -->
 
 
-<!-- GITHUB STATS START -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsonii&theme=github_dark&bg_color=000000" />
-<!-- GITHUB STATS END -->
+<!-- EXTRA BADGES FOR CAPITALIZED LOOK START -->
+<img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" /> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+<img src="https://img.shields.io/badge/MOST%20USED%20LANGUAGES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF&labelColor=000000&color=000000" />
+<!-- EXTRA BADGES FOR CAPITALIZED LOOK END -->
+
+
+<!-- GITHUB STACK CLEAN START -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsonii&show_icons=true&hide_title=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true&border_radius=12" style="width: auto; height: auto; border-radius: 12px; box-shadow: 0px 0px 15px #00FFFF;"/>
+<!-- GITHUB STACK CLEAN END -->
 
 
 <!-- MOST USED LANGUAGES WITH BLACK BG START-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=8B949E&border_radius=10&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsonii&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=00FFFF&border_radius=10&langs_count=8&hide_title=true" />
 <!-- MOST USED LANGUAGES WITH BLACK BG END-->
 
 

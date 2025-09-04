@@ -115,7 +115,7 @@
 
 
 <!-- OS HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USED" />
 <!-- OS HEADING END-->
 
 
@@ -128,7 +128,7 @@
 
 
 <!-- GITHUB STACK HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=GITHUB+STACKS" />   
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
 <!-- GITHUB STACK HEADING END -->
 
 
@@ -137,11 +137,13 @@
 <!-- AQUA ACTIVITY GRAPH END -->
 
 
-<!-- BADGES -->
+<!-- BADGES START -->
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" alt="GitHub Stats Badge"/>
   <img src="https://img.shields.io/badge/MOST%20USED%20LANGUAGES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF&labelColor=000000&color=000000" alt="Most Used Languages Badge"/>
 </p>
+<!-- BADGES END -->
+
 
 <!-- STACK AND LANGUAGES SIDE-BY-SIDE START (TABLE METHOD) -->
 <table>

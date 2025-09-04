@@ -29,7 +29,7 @@
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
 
-<!-- GITHUB TROPHIES HEADING START -->
+<!-- GITHUB TROPHIES HEADING START --
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=TROPHIES"/> 
 <!-- GITHUB TROPHIES HEADING END-->
 

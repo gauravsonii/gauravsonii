@@ -138,10 +138,16 @@
 
 
 <!-- BADGES START -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" alt="GitHub Stats Badge"/>
-  <img src="https://img.shields.io/badge/MOST%20USED%20LANGUAGES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF&labelColor=000000&color=000000" alt="Most Used Languages Badge"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" alt="GitHub Stats Badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MOST%20USED%20LANGUAGES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF&labelColor=000000&color=000000" alt="Most Used Languages Badge"/>
+    </td>
+  </tr>
+</table>
 <!-- BADGES END -->
 
 

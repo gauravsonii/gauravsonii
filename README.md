@@ -143,7 +143,7 @@
   <img src="https://img.shields.io/badge/MOST%20USED%20LANGUAGES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF&labelColor=000000&color=000000" alt="Most Used Languages Badge"/>
 </p>
 
-<!-- STACK AND LANGUAGES SIDE-BY-SIDE (TABLE METHOD) -->
+<!-- STACK AND LANGUAGES SIDE-BY-SIDE START (TABLE METHOD) -->
 <table>
   <tr>
     <td>
@@ -154,7 +154,7 @@
     </td>
   </tr>
 </table>
-
+<!-- STACK AND LANGUAGES SIDE-BY-SIDE END (TABLE METHOD) -->
 
 
 <!---------------------->
@@ -191,7 +191,7 @@
 
 <!-- ALL REPO BUTTON START --
   <a href="https://github.com/gauravsonii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-!-- ALL REPO BUTTON END -->
+<!-- ALL REPO BUTTON END -->
 <!---------------------->
 
 

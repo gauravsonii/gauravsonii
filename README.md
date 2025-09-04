@@ -34,7 +34,7 @@
 <!-- GITHUB TROPHIES HEADING END-->
 
 
-<!-- GITHUB TROPHIES START -->
+<!-- GITHUB TROPHIES START --
 [![trophy](https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Followers,Commits,PullRequest,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy) <br><br>
 <!-- GITHUB TROPHIES END -->
 

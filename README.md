@@ -18,7 +18,7 @@
 
 
 <!-- TYPING SVG/INTRO LINE START -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Fintech%20Strategic;LLM%20/%20RAG%20/%20MCP%20Innovator;Web3%20%26%20AI%20-%20Ecosystem%20Contributor;Founder%20@QuantumX™;&center=true&width=650&height=45&color=00FFFF&font=Courgette">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Fintech%20Strategic;LLM%20/%20RAG%20/%20MCP%20Innovator;Web3%20%26%20AI%20-%20Ecosystem%20Contributor;Founder%20@QuantumX™;&center=true&width=650&height=45&color=00FFFF&font=Courgette&size=35">
 <!-- TYPING SVG/INTRO LINE END -->
 
 

@@ -13,7 +13,7 @@
 
 
 <!-- WELCOME LINE START-->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&width=600&height=45&color=00FFFF&pause=9999999&size=15">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MY+GITHUB+PROFILE;&center=true&Code&weight=550&width=600&height=45&color=00FFFF&pause=9999999&size=15">
 <!-- WELCOME LINE END-->
 
 
@@ -30,7 +30,7 @@
 
 
 <!-- GITHUB TROPHIES HEADING START --
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=TROPHIES"/> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=TROPHIES"/> 
 <!-- GITHUB TROPHIES HEADING END-->
 
 

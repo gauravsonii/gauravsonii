@@ -45,7 +45,7 @@
  
                
 <!-- LET'S CONNECT TOGETHER LINE START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
 <!-- LET'S CONNECT TOGETHER LINE END -->
 
 
@@ -65,7 +65,7 @@
 
    
 <!-- MY SKILL'S HEADING START -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+SKILL'S" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=SKILL'S" />
 <!-- MY SKILL'S HEADING END-->
 
 
@@ -115,7 +115,7 @@
 
 
 <!-- OS HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USED" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USED" />
 <!-- OS HEADING END-->
 
 
@@ -128,7 +128,7 @@
 
 
 <!-- GITHUB STACK HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
 <!-- GITHUB STACK HEADING END -->
 
 

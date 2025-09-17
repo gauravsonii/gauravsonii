@@ -29,12 +29,12 @@
 <!-- GITHUB SNAKE CONTRIBUTION END-->
 
 
-<!-- GITHUB TROPHIES HEADING START --
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=TROPHIES"/> 
+<!-- GITHUB TROPHIES HEADING START -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=TROPHIES"/> 
 <!-- GITHUB TROPHIES HEADING END-->
 
 
-<!-- GITHUB TROPHIES START --
+<!-- GITHUB TROPHIES START -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=gauravsonii&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Followers,Commits,PullRequest,Repositories,MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy) <br><br>
 <!-- GITHUB TROPHIES END -->
 

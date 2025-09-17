@@ -39,6 +39,16 @@
 <!-- GITHUB TROPHIES END -->
 
 
+<!-- HACKATHON HEADING START -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=18&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=HACKATHONs+I+WIN"/>
+<!-- HACKATHON HEADING END-->
+
+
+<!-- HACKATHON SECTION START-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=1st+Position:+HackIndia+Web3+Hackathon;1st+Position:+Arbitrum+Open+House+India" /> <br>
+<!-- HACKATHON SECTION END-->
+
+
 <!-- HOLOPIN START --
 [![An image of @gauravsonii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravsonii)](https://holopin.io/@gauravsonii)
 <!-- HOLOPIN END -->

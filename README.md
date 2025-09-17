@@ -137,7 +137,7 @@
 <!-- AQUA ACTIVITY GRAPH END -->
 
 
-<!-- BADGES START -->
+<!-- BADGES START --
 <table align="center">
   <tr>
     <td align="center">

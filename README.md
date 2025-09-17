@@ -102,12 +102,9 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Grainace](https://img.shields.io/badge/Grainace-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <br> <br>
 <!-- MY SKILL'S END -->
 

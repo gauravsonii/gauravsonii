@@ -108,8 +108,6 @@
 ![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 <br> <br>
 <!-- MY SKILL'S END -->
 
@@ -133,7 +131,7 @@
 
 
 <!-- AQUA ACTIVITY GRAPH START -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=00FFFF&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" /> <br> <br> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=00FFFF&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" /> <br>
 <!-- AQUA ACTIVITY GRAPH END -->
 
 

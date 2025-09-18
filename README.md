@@ -45,7 +45,7 @@
 
 
 <!-- HACKATHON SECTION START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=3rd+Position+:+HackIndia+Web3+Hackathon;1st+Position+:+Arbitrum+Open+House+India" /> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+3rd+Position+:+HackIndia+Web3+Hackathon;B)+-+1st+Position+:+Arbitrum+Open+House+India" /> <br>
 <!-- HACKATHON SECTION END-->
 
 

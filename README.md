@@ -85,18 +85,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Eth.js](https://img.shields.io/badge/Eth.js-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Eth.js](https://img.shields.io/badge/Eth.js-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
@@ -170,7 +170,6 @@
 <!-- STACK AND LANGUAGES SIDE-BY-SIDE END (TABLE METHOD) -->
 
 
-<!---------------------->
 <!-- CONTRIBUTION START --
 ![](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
 !-- CONTRIBUTION END -->
@@ -190,7 +189,6 @@
 <!-- ALL REPO BUTTON START --
   <a href="https://github.com/gauravsonii?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 <!-- ALL REPO BUTTON END -->
-<!---------------------->
 
 
 <!-- AESTHETIC LINE START-->

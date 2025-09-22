@@ -18,7 +18,7 @@
 
 
 <!-- TYPING SVG/INTRO LINE START -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Fintech%20Strategic;2x%20Hackaton%20Winner;Web3%20Evangelist;Founder%20@QuantumX™;&center=true&width=650&height=45&color=00FFFF&font=Courgette&size=28">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Fintech%20Strategic;4x%20Hackaton%20Winner;Web3%20Evangelist;Founder%20@QuantumX™;&center=true&width=650&height=45&color=00FFFF&font=Courgette&size=28">
 <!-- TYPING SVG/INTRO LINE END -->
 
 
@@ -45,7 +45,7 @@
 
 
 <!-- HACKATHON SECTION START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+3rd+Position+:+Hack+India+Web3+Hackathon;B)+-+1st+Position+:+Arbitrum+Open+House+India" /> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+3rd+Position+:+Hack+India+Web3+Hackathon;B)+-+1st+Position+:+Arbitrum+Open+House+India;C)+-+2nd+Position+:+Avalanche+Team1+Hyderabad;D)+-+2rd+Position+:+Avalanche+Hacker+House+Delhi" /> <br>
 <!-- HACKATHON SECTION END-->
 
 

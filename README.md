@@ -45,7 +45,7 @@
 
 
 <!-- HACKATHON SECTION START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+2rd+Position+:+Hack+India+Web3+Hackathon;B)+-+1st+Position+:+Arbitrum+Open+House+India;C)+-+1nd+Position+:+Avalanche+Team1+Hyderabad;D)+-+1st+Position+:+Avalanche+Hacker+House+Delhi" /> <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=A)+-+2nd+Position+:+Hack+India+Web3+Hackathon;B)+-+1st+Position+:+Arbitrum+Open+House+India;C)+-+1st+Position+:+Avalanche+Team1+Hyderabad;D)+-+1st+Position+:+Avalanche+Hacker+House+Delhi" /> <br>
 <!-- HACKATHON SECTION END-->
 
 

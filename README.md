@@ -120,19 +120,6 @@
 <!-- MY SKILL'S END -->
 
 
-<!-- OS HEADING START-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=OPERATING+SYSTEM+I+USED" />
-<!-- OS HEADING END-->
-
-
-<!-- OS START-->
-[![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) 
-<br> <br>
-<!-- OS END-->
-
-
 <!-- GITHUB STACK HEADING START-->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
 <!-- GITHUB STACK HEADING END -->

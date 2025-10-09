@@ -63,13 +63,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsonnii/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravsonnii)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210918555697152061)
-[![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gaauuuraavvv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravvsonii)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gauravvsonii)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gauravsonii)
 [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/gauravsoni)
 [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/GAURAVVSONII/s/DAyZxJ1kav)
 [![Snapchat](https://img.shields.io/badge/Snapchat-000000?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/gaauravsonii)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gauravvsonii)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/gauravsoniiii)
 <br> <br>
 <!-- MY SOCIAL HANDLES END -->

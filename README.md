@@ -158,7 +158,7 @@
 <!-- STACK AND LANGUAGES SIDE-BY-SIDE END (TABLE METHOD) -->
 
 
-<!-- CONTRIBUTION START --
+<!-- CONTRIBUTION START -->
 ![](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
 !-- CONTRIBUTION END -->
 

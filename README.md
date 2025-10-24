@@ -122,13 +122,13 @@
 <!-- GITHUB STACK HEADING END -->
 
 
-<!-- AQUA ACTIVITY GRAPH START --
+<!-- AQUA ACTIVITY GRAPH START -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsonii&theme=react-dark&custom_title=ACTIVITY%20GRAPH&bg_color=000000&hide_border=true&color=00FFFF&line=00FFFF&point=00FFFF&area=true&area_color=00FFFF&title_color=OOFFFF" width="100%" alt="activity graph" title="Gaurav Soni's GitHub Activity Graph" /> <br>
 <!-- AQUA ACTIVITY GRAPH END -->
 
 
 
-<!-- STACK AND LANGUAGES SIDE-BY-SIDE START (TABLE METHOD) --
+<!-- STACK AND LANGUAGES SIDE-BY-SIDE START (TABLE METHOD) -->
 <table>
   <tr>
     <td>
@@ -143,7 +143,7 @@
 
 
 
-<!-- CONTRIBUTION START -->
+<!-- CONTRIBUTION START --
 ![](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
 <!-- CONTRIBUTION END -->
 

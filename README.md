@@ -59,7 +59,7 @@
 <!-- LET'S CONNECT TOGETHER LINE END -->
 
 
-<!-- MY SOCIAL HANDLES START -->
+<!-- MY SOCIAL HANDLES START --
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210918555697152061)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravvsonii)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gauravsonii)

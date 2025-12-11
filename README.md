@@ -60,8 +60,6 @@
 
 
 <!-- MY SOCIAL HANDLES START -->
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gauravsonnii/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gauravsonnii)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210918555697152061)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravvsonii)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gauravsonii)

@@ -54,7 +54,7 @@
 <!-- HOLOPIN END -->
  
                
-<!-- LET'S CONNECT TOGETHER LINE START -->
+<!-- LET'S CONNECT TOGETHER LINE START --
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+TOGETHER" />
 <!-- LET'S CONNECT TOGETHER LINE END -->
 

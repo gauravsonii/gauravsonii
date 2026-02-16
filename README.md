@@ -141,11 +141,9 @@
 
 
 
-<!-- CONTRIBUTION START -->
+<!-- CONTRIBUTION START --
 ![](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
 <!-- CONTRIBUTION END -->
-
-
 
 <!-- AESTHETIC LINE START-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

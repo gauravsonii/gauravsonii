@@ -1,25 +1,20 @@
 name: Generate Contribution Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: gauravsonii
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs: dist/github-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -28,4 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

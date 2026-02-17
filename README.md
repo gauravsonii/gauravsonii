@@ -115,7 +115,7 @@
 <!-- MY SKILL'S END -->
 
 
-<!-- GITHUB STACK HEADING START-->
+<!-- GITHUB STACK HEADING START--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=15&pause=9999999&color=00FFFF&center=true&vCenter=true&width=600&lines=MY+STACKS" />   
 <!-- GITHUB STACK HEADING END -->
 

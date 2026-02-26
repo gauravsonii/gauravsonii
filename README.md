@@ -22,7 +22,7 @@
 <!-- TYPING SVG/INTRO LINE END -->
 
 
-<!-- GITHUB SNAKE CONTRIBUTION START-->
+<!-- GITHUB SNAKE CONTRIBUTION START--
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/gauravsonii/gauravsonii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/gauravsonii/gauravsonii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br> <br>
